@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sethvan
-- 👀 I’m interested in learning to code, flamenco guitar, surfing, and studying historical origins.
+- 👀 I’m interested in coding, flamenco guitar, surfing, and studying historical origins.
 - 🌱 I started learning with C/C++ and a little C#, spent time learning /HTML/CSS/JavasCript/Node/MongoDB/REACT  
  and am now back to studying C++ :-)
 - 💞️ I’m looking to collaborate on anything that helps me better learn to facilitate potential employers
