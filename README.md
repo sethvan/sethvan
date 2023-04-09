@@ -1,6 +1,6 @@
 - Hi, I’m @sethvan
 - I’m interested in coding, flamenco guitar, surfing, and studying historical origins.
-- I mostly study C/C++ but have also studied some Web Dev. 
+- I mostly concentrate on C/C++ but have also studied some Web Dev. 
 - I’m looking to collaborate on anything that helps me better learn to facilitate potential employers.
 - How to reach me is through my email address sethvan@yahoo.com.
 
